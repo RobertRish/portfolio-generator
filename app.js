@@ -1,0 +1,1 @@
+const printProfileData = profileDataArr.forEach(profileItem => console.log(profileItem));
